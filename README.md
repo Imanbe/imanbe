@@ -8,17 +8,20 @@
 - Знания из Devops: bash-скрипты, linux-сервера, RestApi
 - Инструменты: Git, Docker
 
-## 🔥 Статистика моей активности
+## Карточка профиля: 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Imanbe&theme=solarized_dark)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Imanbe&show_icons=true&theme=radical)
+## Статистика языков в коммитах:
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Imanbe&theme=solarized_dark)
 
-## 📈 График моей активности
+## Статистика языков в репозиториях:
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Imanbe&theme=solarized_dark)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Imanbe&theme=dracula)
+## Статистика профиля:
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Imanbe&&theme=solarized_dark)
 
-## 📊 Частота коммитов
-
-![GitHub Commits](https://github-profile-summary-cards.vercel.app/api/cards/commit.svg?username=Imanbe&theme=radical)
+## Данные по коммитам за сутки:
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Imanbe&theme=solarized_dark)
 
 ## 📫 Как со мной связаться
 - Email: ilnazlive@gmail.com
