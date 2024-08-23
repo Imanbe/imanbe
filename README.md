@@ -16,7 +16,7 @@
 
 ## 📫 Как со мной связаться
 - Email: ilnazlive@gmail.com
-- Telegram: [Ссылка](https://t.me/ilnazik_kik)
-- Tg канал: [Ссылка](https://t.me/ilnazik_kik_projects)
+- Telegram: [https://t.me/ilnazik_kik](https://t.me/ilnazik_kik)
+- Tg канал: [https://t.me/ilnazik_kik_projects](https://t.me/ilnazik_kik_projects)
 
 Спасибо, что посетили мой профиль! 😊
