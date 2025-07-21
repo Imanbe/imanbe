@@ -5,6 +5,7 @@
 ## 🛠️ Навыки
 - Стек: Python, C++, C#
 - БД: Postrgesql, SqlAclhemy, Alembic, Sqlite3
+- FrameWorks: Redis, Celery, Fastapi, Promethous, Grafana
 - Api, с которыми работаю: Bitrix24, Wrike, VkAds, Bluesales, api.telegram.org
 - Знания из Devops: bash-скрипты, linux-сервера
 - Инструменты: Git, Docker
